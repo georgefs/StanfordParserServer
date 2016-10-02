@@ -23,3 +23,4 @@ unzip -o stanford-spanish-corenlp-2015-10-14-models.jar
 
 mkdir -p service/impl
 mkdir -p service/endp
+sh make.sh
