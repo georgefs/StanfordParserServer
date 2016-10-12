@@ -8,3 +8,6 @@ mv -f ParserServiceImpl.class service/impl/
 
 javac ParserServicePublisher.java
 mv -f ParserServicePublisher.class service/endp/
+
+javac -cp . ParserJPype.java
+mv -f ParserJPype.class service/jpype/
