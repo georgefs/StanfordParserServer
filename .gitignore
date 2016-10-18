@@ -19,3 +19,4 @@ README_dependencies.txt
 ShiftReduceDemo.java
 StanfordDependenciesManual.pdf
 lexparser*
+*.out
