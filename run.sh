@@ -1,1 +1,1 @@
-java -cp . service.endp.ParserServicePublisher
+java -cp lib/*:. service.endp.ParserServicePublisher
