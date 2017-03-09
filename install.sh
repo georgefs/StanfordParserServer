@@ -4,6 +4,7 @@ wget http://nlp.stanford.edu/software/stanford-parser-full-2015-12-09.zip
 unzip stanford-parser-full-2015-12-09.zip
 rm -f stanford-parser-full-2015-12-09.zip
 mv stanford-parser-full-2015-12-09/*.jar .
+rm -f stanford-parser-full-2015-12-09
 
 wget http://nlp.stanford.edu/software/stanford-chinese-corenlp-2016-01-19-models.jar
 wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-01-10-models.jar
